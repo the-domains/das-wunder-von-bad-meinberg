@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Vision - Das Wunder von Bad Meinberg
-datePublished: '2016-04-04T13:28:58.512Z'
-dateModified: '2016-04-04T13:28:46.725Z'
+datePublished: '2016-04-04T13:51:48.082Z'
+dateModified: '2016-04-04T13:29:07.556Z'
 title: Das Wunder von Bad Weinberg - Vision
 author: []
 authors: []
