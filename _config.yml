@@ -1,0 +1,28 @@
+name: das-wunder-von-bad-meinberg
+favicon: null
+layout_spectrum: 0.9956590747460723
+typography_spectrum: 0.8589499981608242
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.10192368016578257
+  lightness: 0.7358631487004459
+  saturation: 0.4955386505462229
+  rhythmicContrast: 0.5934620313346386
+purpose: []
