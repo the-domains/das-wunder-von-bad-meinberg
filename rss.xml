@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[das-wunder-von-bad-meinberg]]></title>
-        <description><![CDATA[das-wunder-von-bad-meinberg]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Das Wunder von Bad Meinberg - Ein Festival für Ein Kurs in Wundern]]></title>
+        <description><![CDATA[Das Wunder von Bad Meinberg - Ein Festival für Ein Kurs in Wundern]]></description>
+        <link>https://thegrid.ai/das-wunder-von-bad-meinberg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 13:28:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 13:51:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/das-wunder-von-bad-meinberg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Das Wunder von Bad Weinberg - Vision]]></title>
             <description><![CDATA[<article><h1>Das Wunder von Bad Weinberg - Vision</h1><h2>Ein Festival zum  Kurs in Wundern. </h2><p>Vision - Das Wunder von Bad Meinberg</p></article>]]></description>
-            <link>undefineddas-wunder-von-bad-weinberg-vision/index.html</link>
+            <link>https://thegrid.ai/das-wunder-von-bad-meinberg/das-wunder-von-bad-weinberg-vision/index.html</link>
             <guid isPermaLink="false">12f7bcd3-9ec6-40f2-8deb-7511c92bcecb</guid>
-            <pubDate>Mon, 04 Apr 2016 13:28:58 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2016 13:51:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
